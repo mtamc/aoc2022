@@ -2,3 +2,4 @@ dist-newstyle/
 aoc2022.cabal
 ./src/Main
 src/Main
+inputs/*
